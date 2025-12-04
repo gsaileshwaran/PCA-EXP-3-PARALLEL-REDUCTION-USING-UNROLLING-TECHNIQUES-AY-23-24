@@ -1,5 +1,5 @@
 # PCA-EXP-3-PARALLEL-REDUCTION-USING-UNROLLING-TECHNIQUES AY 25-26
-<h3>NAME : Saileshwaran GanesanG</h3>
+<h3>NAME : Saileshwaran Ganesan</h3>
 <h3>REGISTER NO: 212224230237</h3>
 <h3>EX. NO : 3</h3>
 <h3>DATE: 25-11-2025</h3>
